@@ -17,5 +17,5 @@ function sum(a, b, c, d){
 }
 
 // sum(10, 12, 33, 44, 88, 55, 74);
-// console.log(sum.length);
+
 console.log(typeof sum);
